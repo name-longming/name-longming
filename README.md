@@ -1,6 +1,6 @@
 ### Hi there, I am name-longming👋
 > A zero-based vegetable dog who is learning electronics  
-> <a href="https://github.com/anuraghazra/github-readme-stats">
+> <a href="https://github.com/name-longming?tab=repositories">
 > <img align="right" src="https://github-readme-stats.vercel.app/api?username=name-longming&show_icons=true&theme=radical" />
 > </a>
 
