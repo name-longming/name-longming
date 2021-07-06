@@ -6,11 +6,12 @@
 
 - 🔭 **Studying in Chengdu University of Information Engineering**
 - 🌱 **Learning** :
-  - [x] C++ / C
+  - [x] C / C++
   - [x] Python
   - [x] 嵌入式
   - [x] Linux
   - [x] 深度学习
+  - [x] 数学建模
 - 📫 **Reach me** :
   - **QQ** : 1756284275
   - **E-mail** : 1756284275@qq.com
